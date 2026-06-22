@@ -2,13 +2,10 @@
 <h1 align="center">Hi 👋, I'm Shamsudeen Saleem</h1>
 <h3 align="center">AI Engineer • Robotics & Machine Learning • Building agentic AI systems</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShamSaleem&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 - 🔭 I'm currently building **RIADI AI** — an agentic, AI-native **ERP & CRM** platform at **Ebttikar** (Riyadh)
 - 🌱 Working at the intersection of **Agentic AI, LLM systems, and Robotics**
 - 👯 I'm looking to collaborate on **ML, DL, robotics, and generative AI** projects
+- 🎓 B.Tech in Computer Science (AI & Robotics), **Vellore Institute of Technology, Chennai** (2020–2025)
 - 🤖 Ask me about **ROS, SLAM, RAG pipelines, LLM tool-calling, and autonomous systems**
 - 📫 How to reach me: **shamsudeen.saleem2002@gmail.com**
 
@@ -62,7 +59,6 @@ I'm also an active open-source contributor across the **ML/LLM ecosystem** (Hugg
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShamSaleem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamSaleem&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
@@ -72,10 +68,4 @@ I'm also an active open-source contributor across the **ML/LLM ecosystem** (Hugg
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShamSaleem&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShamSaleem&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
